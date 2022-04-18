@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Piyush Lanjewar
 - 👀 I’m interested in Data Science and Insights Position
-- 🌱 I’m currently learning at Almabetter as a Data Science trainee
-- 💞
+- 🌱 I’m currently learning at Perficient as a ETL developer
 - 📫 How to reach me Phone No. 9404033313
                       Email : Planjewar51@gmail.com
 
