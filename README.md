@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Piyush Lanjewar
-- 👀 I’m interested in Data Science and Insights Position
-- 🌱 I’m currently learning at Perficient as a ETL developer
-- 📫 How to reach me Phone No. 9404033313
-                      Email : Planjewar51@gmail.com
+- 👋 Hi, I’m **Piyush Lanjewar**
+- 👀 Passionate about Data Engineering and building scalable ETL pipelines
+- 🌱 Currently working as an ETL Developer at **ZS Associates**, learning Spark and Snowflake
+- 📫 Reach me at: planjewar51@gmail.com
 
 <!---
 Planjewar51/Planjewar51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
